@@ -8,16 +8,16 @@ kamu tinggal di mana|Saya tinggal di Jakarta.
 Bagaimana cara menambahkan anotasi pada grafik|Untuk menambahkan anotasi pada grafik, Anda dapat menggunakan fungsi plt.annotate().
 kamu sudah makan|Ya, saya sudah makan tadi siang.
 hobi kamu apa|Hobi saya adalah membaca buku dan bersepeda.
-reksa almeida firmansyah 4194062 i hadir|Terima kasih telah hadir.
-haiqal abdillah 4194050 hadir|Terima kasih atas kehadiran anda. Semoga anda dapat mengambil manfaat dari kelas yang anda hadiri.
-hari ini libur apaan|Hari ini adalah hari Sabtu, jadi tidak ada libur khusus.
-gresya hutabarat 4194049 hadir|Maaf, saya tidak mengerti pertanyaan Anda. Silakan dijelaskan lebih lanjut.
-fransnico sihombing 4194047 hadir|Halo Fransnico Sihombing, terima kasih telah hadir. Kami berharap Anda dapat menikmati waktu Anda di sini dan menikmati pengalaman yang menyenangkan. Jika ada pertanyaan atau bantuan yang Anda butuhkan, jangan ragu untuk menghubungi kami. Terima kasih.
-rahmala sari 4194060 hadir|Maaf, saya tidak dapat menjawab pertanyaan Anda. Mohon maaf atas ketidaknyamanan ini.
-hibatul fadli dzil ikram 4184052 hadir|Terima kasih atas kehadiran Saudara Fadli Dzil Ikram. Semoga kehadiran Saudara dapat memberikan manfaat bagi semua.
-dody siahaan 4194046 hadir|Halo Dody,\n\nSelamat datang di sini. Kami senang bisa berbicara dengan Anda. Apa yang bisa kami bantu?
-dhafin 4194043 hadir|Saya hadir.
-aef saepurohim 4194036 hadir|Hai saepurohim,\n\nSelamat datang di acara yang kami adakan. Kami sangat senang bisa menghadirkan Anda di sini. Kami berharap Anda dapat menikmati acara ini dan berbagi pengalaman Anda dengan kami. Terima kasih atas kunjungan Anda.
+Apa kelebihan AngularJS?|Kelebihan AngularJS termasuk data binding dua arah, dependency injection, dan kemampuan untuk membuat single-page applications.
+Bagaimana cara menginstal AngularJS?|Anda bisa menginstal AngularJS dengan mengunduh file angular.min.js dari situs resmi atau menggunakan CDN seperti Google CDN.
+hari ini libur apaan|Hari ini adalah hari Sabtu,jadi tidak ada libur khusus.
+Apa itu data binding dalam AngularJS?|Data binding dalam AngularJS adalah proses sinkronisasi antara model dan view. Ini berarti perubahan pada model akan secara otomatis diperbarui di view dan sebaliknya.
+Apa itu directive di AngularJS?|Directive di AngularJS adalah perintah khusus yang digunakan untuk memperluas kemampuan HTML dengan atribut atau elemen baru.
+Bagaimana cara membuat controller di AngularJS?|Untuk membuat controller di AngularJS, Anda bisa mendefinisikan fungsi JavaScript dan mengaitkannya dengan view menggunakan directive ng-controller.
+Bagaimana cara menggunakan filter di AngularJS?|Filter di AngularJS digunakan untuk memformat data di view. Anda bisa menggunakan filter seperti currency, date, atau custom filter dalam ekspresi AngularJS.
+Apa itu scope dalam AngularJS?|Scope dalam AngularJS adalah objek yang menghubungkan controller dan view, berfungsi sebagai konteks untuk model data.
+Apa itu module di AngularJS?|Module di AngularJS adalah container untuk aplikasi, di dalamnya Anda bisa mendefinisikan controller, service, filter, directive, dan komponen lainnya.
+Bagaimana cara menangani event di AngularJS?|Anda bisa menangani event di AngularJS dengan menggunakan directive seperti ng-click, ng-change, atau ng-submit untuk mengikat fungsi JavaScript pada event yang terjadi.
 apa itu bukupedia|bukupedia adalah penerbit buku
 selamat siang pak punten pak saya ingin bertanya untuk proposal kami apakah sudah memenuhi  apabila sudah memenuhi apakah kami sudah bisa untuk mengupload proposal kami ke untuk pengumpulan proposal terima kasih pak,\n\nSelamat siang|Terima kasih atas pertanyaan Anda. Untuk mengetahui apakah proposal Anda sudah memenuhi syarat, Anda harus mengikuti petunjuk yang diberikan oleh. Jika Anda telah memenuhi semua persyaratan, Anda dapat mengupload proposal Anda ke untuk pengumpulan proposal. Semoga membantu.
 program C++ yang membaca matriks ukuran 𝑛 × 𝑚 dan menghitung serta mencetak jumlah maksimum dari submatriks mana pun di dalam matriks tersebut|#include <iostream>\n#include <string>\n#include <vector>\n#include <algorithm>\n#include <cmath>\n#include <sstream>\n#include <map>\n#include <set>\n#include <iomanip>\n\nusing namespace std;\n\n#define sz(a) int((a).size())\n#define pb push_back\n#define all(c) (c).begin(), (c).end()\n#define tr(c,i) for(typeof((c).begin()) i = (c).begin(); i!=(c).end(); i++\n#define present(c,x) ((c).find(x)!=(c).end())\n#define cpresent(c,x) (find(all(c),x) != (c).end()\n\ntypedef vector<int> vi;\ntypedef vector<vi> vvi;\ntypedef pair<int, int> ii;\n\nint main(){\n\n    int n,m;\n    cin>>n>>m;\n    int arr[n][m];\n    for(int i=0;i<n;i++){\n        for(int j=0;j<m;j++){\n            cin>>arr[i][j];\n        }\n    }\n    int max_sum=0;\n    int sum=0;\n    for(int i=0;i<n;i++){\n        for(int j=0;j<m;j++){\n            for(int k=i;k<n;k++){\n                for(int l=j;l<m;l++){\n                    sum=0;\n                    for(int a=i;a<=k;a++){\n                        for(int b=j;b<=l;b++){\n                            sum+=arr[a][b];\n                        }\n                    }\n                    if(sum>max_sum)\n                        max_sum=sum;\n                }\n            }\n        }\n    }\n    cout<<max_sum<<endl;\n    return 0;\n}
