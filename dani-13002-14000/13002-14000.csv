@@ -98,3 +98,13 @@ Bagaimana cara memilih metode pengembangan perangkat lunak yang tepat|Metode pen
 Apakah GitHub Pages mendukung penggunaan SSL khusus?|Ya, GitHub Pages mendukung penggunaan SSL khusus dengan menyediakan opsi untuk meng-upload sertifikat SSL khusus Anda sendiri.
 Apa yang dimaksud dengan casting tipe data dalam Go?|Casting tipe data adalah proses mengubah nilai dari satu tipe data ke tipe data lain yang sesuai.
 Bagaimana cara membuat form dialog di Bootstrap|Anda bisa membuat form dialog dengan menggunakan elemen <dialog> dan menempatkan elemen form di dalamnya.
+Bagaimana cara membuat multiple subplots dalam satu gambar menggunakan Matplotlib?|Anda dapat menggunakan fungsi plt.subplot() untuk membuat multiple subplots dalam satu gambar dengan menentukan jumlah baris, kolom, dan nomor subplot yang ingin Anda buat.
+Bagaimana normalisasi data berbeda dengan transformasi data?|Normalisasi data mengubah skala nilai dalam dataset menjadi rentang yang seragam, sementara transformasi data dapat meliputi berbagai operasi seperti log-transform, sqrt-transform, atau lainnya untuk mengubah distribusi data.
+Bagaimana cara membuat plot ternary menggunakan Matplotlib?|Anda dapat membuat plot ternary menggunakan fungsi plt.triplot() dalam Matplotlib dengan memberikan koordinat x, y, serta segitiga yang diinginkan sebagai parameter.
+hay sayang|Aku sayang kamu juga!
+kamu dah makan belum|Belum, tapi akan segera makan.
+emng km gk puasa|Selamat berpuasa! Semoga ibadah puasa kamu diterima oleh Allah SWT dan kamu mendapatkan pahala yang berlipat ganda.
+kata kata orang berpisah|Selamat jalan, semoga kamu bahagia.
+kata kata aku mencintai seseorang|Aku mencintai seseorang dengan sepenuh hati dan jiwa. Aku tak bisa hidup tanpanya dan aku tak bisa menggambarkan betapa berharganya cinta yang kami bagi.
+Apakah Google Cloud Engine mendukung otomatisasi penjadwalan tugas?|Ya, Anda dapat menggunakan layanan Google Cloud Scheduler untuk otomatisasi penjadwalan tugas di Google Cloud Platform.
+gak punya duit|makanya nguli
