@@ -18,3 +18,13 @@ Bagaimana cara mengonfigurasi routing di Vercel?|Anda dapat mengonfigurasi routi
 Bagaimana cara menangani validasi form untuk input yang memerlukan validasi lintas-bahasa atau lokal?|Validasi form untuk input yang mengandung karakter khusus atau emotikon memerlukan pemahaman tentang karakteristik input dan penggunaan ekspresi reguler yang tepat.
 Bagaimana cara menambahkan alert dengan efek animasi zoom in saat alert muncul?|Anda bisa menggunakan aturan CSS atau JavaScript untuk menambahkan efek animasi zoom in saat alert muncul dengan mengatur properti CSS atau menggunakan library animasi.
 Apa itu Test-Driven Development (TDD)|Test-Driven Development (TDD) adalah pendekatan pengembangan perangkat lunak di mana pengujian otomatis ditulis sebelum kode implementasi, sehingga pengembangan dipandu oleh kebutuhan pengujian.
+Bagaimana mengkonversi type data string ke integer?|Menggunakan strconv.Atoi()
+bagaimana menambahkan gambar ke dalam card di bootstrap|Anda dapat menambahkan gambar ke dalam Card dengan menggunakan elemen <img> di dalam elemen Card.
+Bagaimana cara membuat form summary di Bootstrap|Anda bisa membuat form summary dengan menggunakan elemen <summary> dan menempatkannya di dalam elemen <details>.
+Berapa rentang tipe data uint16?|0 sampai 65535
+Apakah kita dapat menggunakan Ghost dengan GitHub Pages?|GitHub Pages tidak mendukung penggunaan Ghost sebagai platform untuk meng-host situs web Anda.
+Bagaimana cara mengonfigurasi routing di Vercel?|Anda dapat mengonfigurasi routing di Vercel melalui file konfigurasi seperti vercel.json atau menggunakan pengaturan di dasbor. Anda dapat menentukan bagaimana permintaan akan diarahkan dan ditangani.
+Bagaimana cara menangani validasi form untuk input yang memerlukan konfirmasi atau verifikasi melalui email atau SMS?|Validasi form untuk input yang memerlukan konfirmasi atau verifikasi melalui email atau SMS memerlukan integrasi dengan layanan eksternal dan penanganan input yang tepat.
+Apa peran pengujian unit dalam pembangunan perangkat lunak berbasis cloud?|Pengujian unit berperan penting dalam pembangunan perangkat lunak berbasis cloud dengan memastikan bahwa aplikasi berbasis cloud berfungsi dengan baik di lingkungan cloud yang berbeda dan dapat menangani skalabilitas dan ketahanan. 
+Apa itu Continuous Deployment|Continuous Deployment adalah praktik di mana setiap perubahan kode yang lulus pengujian otomatis secara otomatis dirilis ke lingkungan produksi.
+Bagaimana cara membuat form hint di Bootstrap|Anda bisa membuat form hint dengan menambahkan elemen <small> dengan kelas .form-text setelah elemen form.
