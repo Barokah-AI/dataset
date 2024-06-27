@@ -228,26 +228,26 @@ Apa nama aktor yang memerankan karakter Jack Sparrow dalam film Pirates of the C
 Apa nama negara yang terkenal dengan salju dan pegunungan Alps?|\n\nSwiss.
 Apa nama karakter utama dalam novel klasik Moby Dick?|\n\nCaptain Ahab.
 Siapakah tokoh fiksi yang terkenal sebagai detektif dari Baker Street?|\n\nSherlock Holmes.
-siapa ilham galih mukti widodo|\n\nTerima kasih atas pertanyaan Anda. Nama Ilham Galih Mukti Widodo adalah nama seorang politisi Indonesia yang saat ini menjabat sebagai Wakil Presiden Indonesia. Ia adalah anggota Partai Demokrasi Indonesia Perjuangan (PDIP) dan menjabat sebagai Wakil Presiden sejak 20 Oktober 2019.
-minta transkrip nilai|\n\nBerikut adalah transkrip nilai Anda:\n\nMata Kuliah/Nilai\nMatematika/A\nFisika/B\nKimia/A\nBiologi/A
-minta transkrip nilai mahasiswa|\n\nBerikut adalah transkrip nilai mahasiswa:\n\nNama Mahasiswa: John Doe\n\nSemester: 1\nMatematika: A\nFisika: B\nKimia: A\nBiologi: B\n\nSemester: 2\nMatematika: B\nFisika: A\nKimia: B\nBiologi: A
-mau minta transkrip nilai mahasiswa|\n\nUntuk meminta transkrip nilai mahasiswa, Anda harus menghubungi bagian akademik di universitas tempat mahasiswa tersebut belajar. Anda harus menyertakan informasi tentang mahasiswa, seperti nama lengkap, nomor mahasiswa, dan jenjang pendidikan yang sedang ditempuh. Anda juga harus menyertakan biaya yang dibutuhkan untuk memproses permintaan Anda. Setelah semua informasi yang diperlukan diserahkan, bagian akademik akan mengirimkan transkrip nilai mahasiswa ke alamat yang Anda berikan.
-package com.example.demo.controller;|\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(/user)\npublic class UserController {\n\n@Autowired\nprivate UserService userService;\n\n@GetMapping(/all)\npublic List<User> getAllUsers(){\nreturn userService.getAllUsers();\n}\n\n@PostMapping(/add)\npublic void addUser(@RequestBody User user){\nuserService.addUser(user);\n}\n\n@PutMapping(/update)\npublic void updateUser(@RequestBody User user){\nuserService.updateUser(user);\n}\n\n@DeleteMapping(/delete/{id})\npublic void deleteUser(@PathVariable int id){\nuserService.deleteUser(id);\n}\n\n}
-cara input absensi ngudur|\n\nInput absensi ngudur biasanya dilakukan dengan menggunakan sistem absensi elektronik. Sistem ini memungkinkan karyawan untuk melakukan absensi dengan menggunakan kartu identitas atau kode unik. Sistem ini juga dapat mencatat waktu masuk dan keluar karyawan, serta menghitung jumlah jam kerja yang telah dikerjakan. Selain itu, sistem ini juga dapat mencatat jenis absensi yang dilakukan oleh karyawan, seperti izin, sakit, atau cuti.
-input presensi tm rhft|\n\nPresensi TM RHFT adalah proses mencatat kehadiran karyawan di tempat kerja. Proses ini biasanya dilakukan dengan menggunakan mesin absensi atau sistem presensi elektronik. Sistem ini memungkinkan karyawan untuk memasukkan informasi kehadiran mereka secara otomatis dan memudahkan manajer untuk mengawasi dan mengontrol kehadiran karyawan.
-cara input absensi wsyi tim|\n\nInput absensi wsyi tim dapat dilakukan dengan menggunakan aplikasi absensi yang tersedia. Aplikasi ini dapat membantu Anda untuk mencatat dan mengelola data absensi wsyi tim. Aplikasi ini juga dapat membantu Anda untuk mengirimkan laporan absensi wsyi tim kepada pihak yang berwenang.
-input absensi itu apa|\n\nInput absensi adalah proses mencatat data kehadiran siswa atau karyawan. Data yang dicatat biasanya berupa nama, tanggal, jam masuk dan jam pulang. Data ini kemudian digunakan untuk menghitung jumlah jam kerja atau jam pelajaran yang telah dihadiri oleh siswa atau karyawan.
-cara input presensi tmiczf|\n\nInput presensi tmiczf dapat dilakukan dengan menggunakan aplikasi presensi yang disediakan oleh perusahaan. Aplikasi ini memungkinkan karyawan untuk melakukan absensi dengan menggunakan kartu identitas atau kode unik. Setelah absensi berhasil, data presensi akan disimpan di sistem dan dapat diakses oleh pihak manajemen.
-kenapaa kamu sibuk pake banget|\n\nMaaf, saya tidak bisa menjawab pertanyaan Anda.
-bantu saya untuk menghubungi seseorang|\n\nMaaf, saya tidak bisa melakukan hal itu. Anda harus menghubungi orang tersebut secara langsung.
-jadwal kelas|\n\nHari/Jam/Mata Kuliah\n\nSenin/09.00 - 11.00/Algoritma dan Pemrograman\nSelasa/13.00 - 15.00/Sistem Basis Data\nRabu/09.00 - 11.00/Algoritma dan Pemrograman\nKamis/13.00 - 15.00/Sistem Basis Data\nJumat/09.00 - 11.00 /Algoritma dan Pemrograman
-minta jadwal kelas|\n\nJadwal kelas bervariasi tergantung pada jenis kelas yang diambil. Beberapa jenis kelas yang umum adalah kelas matematika, bahasa Inggris, sains, dan sejarah. Jadwal kelas biasanya terdiri dari jam pelajaran, waktu istirahat, dan waktu untuk mengerjakan tugas. Jadwal kelas juga dapat berbeda tergantung pada jenis sekolah dan jenjang pendidikan.
-jelaskan jadwal kelas|\n\nJadwal kelas bervariasi tergantung pada jenis kelas yang diambil. Beberapa jenis kelas yang umum adalah kelas matematika, bahasa Inggris, sains, dan sejarah. Jadwal kelas biasanya terdiri dari jam belajar, jam istirahat, dan jam kegiatan lainnya. Jadwal kelas juga dapat berbeda tergantung pada jenis kelas yang diambil. Misalnya, jadwal kelas matematika mungkin berbeda dari jadwal kelas bahasa Inggris.
-the number of times the word appears in the text|\n\nThe word "the" appears in the text a total of 8 times.
-siapa jodohku siapa yang tepat|\n\nTidak ada jawaban yang tepat untuk pertanyaan ini karena jodoh adalah hal yang subjektif dan bergantung pada preferensi masing-masing orang.
-kamu jurusan apa|\n\nAku dan temanku masuk jurusan Teknik Informatika.
-ping|\n\nping -c 4 www.google.com\nPING www.google.com (172.217.164.206): 56 data bytes\n64 bytes from 172.217.164.206: icmp_seq=0 ttl=53 time=14.945 ms\n64 bytes from 172.217.164.206: icmp_seq=1 ttl=53 time=14.945 ms\n64 bytes from 172.217.164.206: icmp_seq=2 ttl=53 time=14.945 ms\n64 bytes from 172.217.164.206: icmp_seq=3 ttl=53 time=14.945 ms\n\nwww.google.com ping statistics\n4 packets transmitted, 4 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 14.945/14.945/14.945/0.000 ms
-apa itu alokasi|\n\nAlokasi adalah proses pembagian sumber daya (seperti uang, waktu, atau tenaga kerja) antara berbagai kepentingan. Alokasi dapat digunakan untuk menentukan bagaimana sumber daya yang terbatas dapat digunakan secara efisien untuk mencapai tujuan tertentu. Alokasi juga dapat digunakan untuk menentukan bagaimana sumber daya yang terbatas dapat dibagi secara adil antara berbagai kepentingan.
+Siapakah penemu lampu pijar?|\n\nThomas Edison.
+Apa nama ibu kota Prancis?|\n\nParis.
+Apa yang dimaksud dengan DNA?|\n\nMolekul genetik yang mengandung instruksi genetik.
+Apa itu teori evolusi?|\n\nKonsep bahwa spesies berevolusi dari nenek moyang yang sama melalui seleksi alam.
+Apa yang dimaksud dengan efek rumah kaca?|\n\nPenyimpanan panas oleh atmosfer bumi karena gas-gas tertentu, menyebabkan pemanasan global.
+Apa nama kapal yang mengangkut para penumpang Inggris ke Amerika pada tahun 1912 dan tenggelam setelah bertabrakan dengan gunung es?|\n\nRMS Titanic.
+Apa nama tokoh mitologi Yunani yang dijuluki sebagai dewa petir?|\n\nZeus.
+Apa itu persepsi?|\n\nCara individu memahami dan memandang dunia sekitarnya.
+Apa yang dimaksud dengan gerhana bulan?|\n\nPeristiwa di mana bulan masuk ke dalam bayangan bumi, menyebabkan bayangan pada permukaannya.
+Apa itu energi nuklir?|\n\nEnergi yang dihasilkan dari reaksi nuklir dalam inti atom.
+Siapakah penulis terkenal dari novel Harry Potter?|\n\nJ.K. Rowling.
+Apa yang dimaksud dengan revolusi industri?|\n\nPeriode di mana produksi massal menggunakan mesin mulai menggantikan produksi manual.
+Apa nama sungai terpanjang di dunia?|\n\nAmazon.
+Apa itu robotika?|\n\nStudi dan pengembangan robot.
+Siapakah ilmuwan terkenal yang merumuskan teori relativitas?|\n\nAlbert Einstein.
+Apa yang dimaksud dengan fenomena El Nino?|\n\nPanas yang tidak biasa di Pasifik Tengah dan Timur, mempengaruhi iklim global.
+Apa nama grup musik terkenal yang mengeluarkan lagu Stairway to Heaven?|\n\nLed Zeppelin.
+Apa itu magnetisme?|\n\nSifat fisik yang menarik benda logam tertentu.
+Apa yang dimaksud dengan hipotesis?|\n\nPernyataan yang diuji untuk menjelaskan fenomena atau hubungan.
+Siapakah pelukis terkenal yang melukis The Starry Night?|\n\nVincent van Gogh.
 the number of times the word appears in the text.|\n\nThe word "the" appears in the text 9 times.
 the number of times the word appears in the text.|\n\nThe word "the" appears in the text a total of 8 times.
 arti hai|\n\nThe word "hai" is a Japanese word that means "yes". It is used as an affirmative response to a question or statement.
