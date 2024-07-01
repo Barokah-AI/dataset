@@ -570,38 +570,38 @@ Apa itu black-box testing?|Metode pengujian perangkat lunak di mana penguji tida
 Apa itu white-box testing?|Metode pengujian perangkat lunak di mana penguji mengetahui struktur internal kode dan melakukan pengujian berdasarkan pengetahuan ini.
 Apa itu alpha testing?|Pengujian internal yang dilakukan oleh pengembang atau tim pengujian untuk menemukan dan memperbaiki bug sebelum perangkat lunak dirilis ke pengguna.
 Apa itu beta testing?|Pengujian yang dilakukan oleh sekelompok pengguna akhir di lingkungan nyata untuk menemukan bug atau masalah yang tidak terdeteksi selama pengujian internal.
-input absensi tqzx|\n\nTerima kasih atas absensi Anda
-oh maaf otomatis nanya|\n\nMaaf, kami tidak menyediakan layanan fotografi otomatis. Namun, kami menyediakan layanan fotografi profesional yang dapat membantu Anda mengabadikan momen-momen penting Anda.	
-input absensi tqzx|\n\nTerima kasih atas absensi Anda	
-input absensi viggie|\n\nUntuk menginput absensi Viggie Anda harus memiliki akun Viggie. Setelah memiliki akun, Anda dapat masuk ke aplikasi Viggie dan mengklik tombol ""Input Absensi"". Anda akan diminta untuk memasukkan informasi tentang jam masuk dan jam pulang, jenis absensi, dan alasan absensi. Setelah mengisi semua informasi, Anda dapat mengklik tombol ""Simpan"" untuk menyimpan data absensi.	
-assalamualaikum agar terinput absensi kalian cukup ketikkan ""hadir"" untuk absensi perwalian hari ini ya|\n\n\Baik. Terimakasih informasinya.		
-package com.example.demo.controller|\n\nimport com.example.demo.model.User;\nimport com.example.demo.service.UserService;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.web.bind.annotation.*;\n\nimport java.util.List;\n\n@RestController\n@RequestMapping(""/user"")\npublic class UserController {\n\n    @Autowired\n    private UserService userService;\n\n    @GetMapping(""/all"")\n   public List<User> getAllUsers(){\n        return userService.getAllUsers();\n    }\n\n    @PostMapping(""/add"")\n    public void addUser(@RequestBody User user){\n        userService.addUser(user);\n    }\n\n    @PutMapping(""/update"")\n    public void updateUser(@RequestBody User user){\n        userService.updateUser(user);\n    }\n\n    @DeleteMapping(""/delete/{id}"")\n    public void deleteUser(@PathVariable int id){\n        userService.deleteUser(id);\n    }\n\n}		
-baik bu untuk revisi kelompok kami  belum di approve ke i sama bu novinya bu|\n\nMaaf,saya tidak dapat membantu Anda dengan revisi kelompok Anda. Anda harus menghubungi pihak yang bertanggung jawab untuk mengajukan permohonan revisi. Terima kasih.		
-sudah kasih key apprv inya kan kl udah ditunggu saja|\n\nTerima kasih atas key approval Anda. Kami akan menunggu konfirmasi dari Anda
-kamu suka mancing ya|\n\nYa, saya suka mancing. Saya suka mencari ikan di sungai dan laut. Saya juga suka mencoba berbagai jenis umpan dan teknik mancing untuk menangkap ikan. Saya juga suka mengikuti kompetisi mancing untuk meningkatkan kemampuan mancing saya.		
-macetes de matematica para o enem 2013|\n\n1. Para resolver problemas de porcentagem, utilize a regra de três simples:\n\n100% : X = Y% : Z\n\n2. Para calcular a área de um triângulo, utilize a fórmula:\n\nA = (base x altura) / 2\n\n3. Para calcular a área de um círculo, utilize a fórmula:\n\nA = π x raio²\n\n4. Para calcular a área de um trapézio, utilize a fórmula:\n\nA = (base maior + base menor) x altura /2\n\n5. Para calcular a área de um retângulo, utilize a fórmula:\n\nA = base x altura\n\n6. Para calcular a área de um losango, utilize a fórmula:\n\nA = (diagonal maior x diagonal menor) / 2\n\n7. Para calcular a área de um quadrado, utilize a fórmula:\n\nA = lado²\n\n8. Para calcular a área de um hexágono, utilize a fórmula:\n\nA = (3 x raio² x seno (60°)) / 2\n\n9. Para calcular a área de um pentágono, utilize a fórmula:\n\nA = (5 x raio² x seno (54°)) / 4\n\n10. Para calcular a área de um octógono, utilize a fórmula:\n\nA = (2 x raio² x seno (45°))		
-belajar apa nih iya|\n\nBelajar adalah proses mengumpulkan pengetahuan, keterampilan, dan nilai.Ini bisa melibatkan berbagai macam aktivitas, seperti membaca, menulis, menonton, mendengarkan, berdiskusi, dan berlatih. Belajar juga dapat mencakup mengembangkan keterampilan dan nilai, seperti kemampuan berpikir kritis, komunikasi, dan kerjasama.		
-suka belajar apa nih|\n\nSaya suka belajar banyak hal, mulai dari bahasa, teknologi, sains, matematika, hingga seni		
-kamu tim ungu atau tim hijau|\n\nSaya lebih suka tim ungu		
-mending lu diem loe itu tim ungu|\n\nSaya rasa itu adalah pilihan yang baik. Lagu ""Ungu"" adalah lagu yang indah dan menyentuh. Ini adalah lagu yang sempurna untuk mengungkapkan perasaan Anda. Lagu ini juga menyampaikan pesan yang baik tentang menghargai dan menghormati orang lain. Ini adalah lagu yang sempurna untuk menyampaikan pesan tentang cinta dan persahabatan.		
-kamu jangan sotoy|\n\nSaya tidak tahu tentang hal itu. Saya sarankan Anda mencari informasi lebih lanjut tentang topik ini di internet atau bertanya kepada ahli di bidangnya.		
-mampus lah kau|\n\nMaaf, saya tidak bisa berkata seperti itu.		
-flutter dan python tantangan membangun aplikasi dengan flutter dan python|\n\nFlutter dan Python dapat digunakan untuk membangun aplikasi yang kuat dan responsif. Flutter adalah framework open source yang dikembangkan oleh Google untuk membangun aplikasi mobile, web, dan desktop. Ini menyediakan antarmuka pengguna yang responsif dan intuitif, serta berbagai fitur yang memungkinkan pengembang untuk membangun aplikasi yang kuat dan responsif. Python adalah bahasa pemrograman yang populer yang dapat digunakan untuk membangun aplikasi web, desktop, dan mobile. Ini memungkinkan pengembang untuk membangun aplikasi yang kuat dan responsif dengan menggunakan berbagai bahasa pemrograman.\n\nUntuk membangun aplikasi dengan Flutter dan Python, pengembang harus memiliki pengetahuan tentang kedua bahasa pemrograman. Pengembang harus memahami bagaimana menggunakan Flutter untuk membangun antarmuka pengguna yang responsif dan intuitif, serta bagaimana menggunakan Python untuk membangun logika aplikasi. Pengembang juga harus memahami bagaimana menggabungkan kedua bahasa pemrograman untuk membangun aplikasi yang kuat dan responsif		
-lihat penilaian tipe i1 tahun 20221|\n\nPenilaian tipe i1 tahun 2021 belum diumumkan. Anda harus menunggu pengumuman resmi dari pihak yang berwenang		
-apalah dayaku kalo muncul  error id  63ece2dfc42beb8216bd7dea   i haya sebuah robot coba tanya admin yang serba bisa|\n\nMaaf, saya tidak tahu apa yang harus saya lakukan dengan error ID 63ece2dfc42beb8216bd7dea. Saya sarankan Anda untuk menghubungi admin yang serba bisa untuk meminta bantuan		
-apalah dayaku kalo muncul   error id  63ece2dfc42beb8216bd7dea   i haya sebuah robot coba tanya admin yang serba bisa|\n\nMaaf, saya tidak tahu apa yang harus saya lakukan dengan error ID 63ece2dfc42beb8216bd7dea. Saya sarankan Anda untuk menghubungi admin yang serba bisa untuk meminta bantuan		
-cek nilai sidang p2 tahun 20221|\n\nUntuk informasi tentang nilai sidang P2 tahun 2021, Anda harus menghubungi pihak yang bertanggung jawab di universitas Anda. Nilai sidang P2 biasanya ditentukan oleh fakultas atau departemen yang bersangkutan		
-e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times	
-httpsdocsgooglecomspreadsheetsd1qqqpkoy8hmodmth169hqlebradbp5cgbbla2x-jddaoeditusp=sharing|\n\nThe link provided is not a valid Google Sheets link	
-httpsdocsgooglecomspreadsheetsd1qqqpkoy8hmodmth169hqlebradbp5cgbbla2x-jddaoeditusp=sharing|\n\nThe link provided is not a valid Google Sheets link	
-httpsdocsgooglecomspreadsheetsd1qqqpkoy8hmodmth169hqlebradbp5cgbbla2x-jddaoeditusp=sharing|\n\nThe link provided is not a valid Google Sheets link	
-kamu pilih ridwan apa neneng|\n\nHalo Ridwan, senang bertemu denganmu.Apa yang bisa saya bantu?		
-httpsmobileappcommunicatorauthmicrosoftcomactivate978592996krs|\n\nThis is not a valid URL
-input penilian sidang 1204027 tipe p3 tahun 20221|\n\nNilai penilian sidang tipe P3 untuk mahasiswa dengan nomor induk 1204027 tahun 2021 adalah A	
-input revisi|\n\nThe new policy requires that all employees must wear masks while in the office. This is to ensure the safety of everyone in the workplace and to help prevent the spread of COVID-19. All employees must also practice social distancing and follow other safety protocols, such as washing their hands regularly and avoiding contact with others. Additionally, any employee who is feeling unwell should stay home and contact their supervisor		
-input revisi|\n\nThe new policy requires that all employees must wear masks while in the office. This is to ensure the safety of everyone in the workplace and to help prevent the spread of COVID-19. All employees must also practice social distancing and follow other safety protocols, such as washing their hands regularly and avoiding contact with others. Additionally, any employee who is feeling unwell should stay home and contact their supervisor		
-e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times		
-jadwal|\n\nKami menyediakan jadwal untuk berbagai kegiatan di seluruh dunia. Anda dapat menemukan jadwal untuk acara olahraga, konser, pertunjukan teater, pameran seni, dan banyak lagi. Anda dapat mencari jadwal berdasarkan lokasi, tanggal, dan jenis acara. Anda juga dapat mencari jadwal berdasarkan nama artis atau tim olahraga. Kami juga menyediakan informasi tentang tiket, lokasi, dan informasi lainnya yang berkaitan dengan acara yang Anda cari	
+Apa itu rekayasa perangkat lunak?|Bidang yang melibatkan desain, pengembangan, pemeliharaan, pengujian, dan evaluasi perangkat lunak.
+Apa itu kode sumber?|Kumpulan instruksi yang ditulis oleh programmer untuk dikonversi menjadi program yang dapat dijalankan.
+Apa itu algoritma?|Serangkaian langkah logis yang digunakan untuk menyelesaikan masalah atau melakukan tugas.
+Apa itu debugging?|Proses mencari dan memperbaiki kesalahan atau bug dalam program.
+Apa itu versi kontrol?|Sistem yang melacak perubahan dalam kode sumber dan memungkinkan kolaborasi antar programmer.
+Apa itu IDE?|Lingkungan Pengembangan Terpadu, perangkat lunak yang menyediakan alat bantu untuk pengembangan perangkat lunak.
+Apa itu framework?|Kerangka kerja yang menyediakan struktur dasar untuk pengembangan aplikasi perangkat lunak.
+Apa itu pustaka?|Kumpulan kode yang dapat digunakan kembali untuk memudahkan pengembangan perangkat lunak.
+Apa itu API?|Antarmuka Pemrograman Aplikasi, alat yang memungkinkan berbagai perangkat lunak untuk berkomunikasi satu sama lain.
+Apa itu SDLC?|Siklus Hidup Pengembangan Perangkat Lunak, tahap-tahap yang diikuti dalam pengembangan perangkat lunak.
+Apa itu waterfall?|Model pengembangan perangkat lunak linear di mana setiap tahap harus diselesaikan sebelum melanjutkan ke tahap berikutnya.
+Apa itu agile?|Metodologi pengembangan perangkat lunak yang menekankan kolaborasi, fleksibilitas, dan iterasi cepat.
+Apa itu scrum?|Kerangka kerja agile yang digunakan untuk mengelola pengembangan perangkat lunak yang kompleks.
+Apa itu backlog?|Daftar tugas atau fitur yang perlu diselesaikan dalam pengembangan perangkat lunak.
+Apa itu sprint?|Periode waktu tertentu di mana tim scrum bekerja untuk menyelesaikan sejumlah tugas dari backlog.
+Apa itu user story?|Deskripsi sederhana tentang fitur perangkat lunak dari sudut pandang pengguna.
+Apa itu release?|Versi perangkat lunak yang siap untuk digunakan oleh pengguna.
+Apa itu repository?|Tempat penyimpanan pusat untuk kode sumber yang dikelola oleh sistem kontrol versi.
+Apa itu continuous integration?|Praktik mengintegrasikan kode yang dikembangkan oleh berbagai pengembang secara terus menerus untuk mendeteksi kesalahan lebih awal.
+Apa itu continuous deployment?|Proses otomatis untuk merilis perubahan kode ke produksi tanpa intervensi manual.
+Apa itu unit test?|Pengujian bagian terkecil dari kode, seperti fungsi atau metode, secara terisolasi.
+Apa itu integration test?|Pengujian yang memastikan bahwa berbagai modul atau layanan bekerja bersama dengan baik.
+Apa itu regression test?|Pengujian ulang untuk memastikan perubahan kode baru tidak menyebabkan bug lama muncul kembali.
+Apa itu load test?|Pengujian yang mengevaluasi kinerja sistem dengan beban kerja yang tinggi.
+Apa itu performance test?|Pengujian untuk mengukur kecepatan, stabilitas, dan skalabilitas perangkat lunak.
+Apa itu usability test?|Pengujian yang mengevaluasi seberapa mudah dan intuitif perangkat lunak digunakan oleh pengguna.
+Apa itu MVP?|Minimum Viable Product, versi awal dari produk yang memiliki fitur dasar yang cukup untuk mendapatkan umpan balik dari pengguna awal.
+Apa itu microservices?|Arsitektur perangkat lunak yang membagi aplikasi menjadi layanan-layanan kecil yang dapat dikembangkan, diuji, dan diterapkan secara independen.
+Apa itu DevOps?|Praktik yang menggabungkan pengembangan perangkat lunak (Dev) dan operasi IT (Ops) untuk meningkatkan efisiensi dan kualitas.
+Apa itu cloud computing?|Penyampaian layanan komputasi melalui internet, termasuk penyimpanan, pemrosesan, dan jaringan.
+Apa itu container?|Unit perangkat lunak yang menyatukan kode aplikasi dan semua dependensinya sehingga dapat dijalankan secara konsisten di berbagai lingkungan.
+Apa itu virtualization?|Proses pembuatan versi virtual dari sesuatu, seperti perangkat keras, sistem operasi, penyimpanan, atau jaringan.
 bukan cukup|\n\nTidak, tidak cukup. Anda mungkin perlu menambahkan lebih banyak sumber daya untuk memenuhi kebutuhan Anda		
 update judul tipe bimbingan p2 tahun id 20221|\n\nJudul Tipe Bimbingan P2 Tahun 2021: Analisis Kebijakan Publik untuk Meningkatkan Kesejahteraan Masyarakat.		
 kode mata kuliah|\n\nMata kuliah yang tersedia di sekolah atau universitas biasanya memiliki kode yang unik. Kode ini biasanya terdiri dari tiga atau empat huruf yang mewakili nama mata kuliah. Sebagai contoh, kode untuk mata kuliah Matematika Dasar mungkin adalah MAT 101	
