@@ -868,26 +868,26 @@ Apa itu flutter build?|Perintah di Flutter CLI yang digunakan untuk membangun ap
 Apa itu AnimationController?|Class yang mengelola animasi dengan mengontrol kecepatan dan durasi animasi.
 Apa itu Hero widget di Flutter?|Widget yang memungkinkan transisi animasi mulus antara dua widget dengan ID yang sama di layar yang berbeda.
 Apa itu Flutter DevTools?|Kumpulan alat pengembangan untuk debugging, profiling, dan optimasi aplikasi Flutter secara visual dan interaktif.
-e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text 8 times.			
-e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times.			
-e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text 8 times.			
-e. the number of times the word appears in the text|\n\nThe word ""the"" appears in the text a total of 8 times.			
-sambil nunggu i nya nyala|\n\nSaya bisa melakukan banyak hal selama menunggu, seperti membaca buku, menonton film, mendengarkan musik, bermain game, atau bahkan berolahraga.			
-wah inya error|\n\nAn error is an indication that something has gone wrong with a program or system. It is usually displayed as a message that describes the problem and may suggest ways to fix it.			
-tapi semua i ga respon|\n\nMaaf, saya tidak bisa membantu Anda dengan masalah ini. Anda mungkin ingin mencari bantuan dari seseorang yang lebih ahli dalam bidang ini.			
-first thing to do|The first thing to do is to contact the local government office in your area. They will be able to provide you with information about the zoning regulations in your area and any other regulations that may apply to your property. They may also be able to provide you with information about any permits or licenses that you may need to obtain in order to build a fence. Additionally, they may be able to provide you with information about any local ordinances that may apply to your property.			
-i put presensi tm yhik|\n\nUntuk memasukkan presensi TM YHIK, Anda harus mengakses aplikasi presensi yang telah disediakan oleh YHIK. Setelah masuk ke aplikasi, Anda dapat memasukkan informasi presensi yang relevan, seperti jam masuk, jam pulang, dan jumlah jam kerja. Anda juga dapat menambahkan komentar atau catatan lainnya jika diperlukan. Setelah selesai, Anda dapat menyimpan presensi Anda.			
-i put presensi tm crlh|\n\nPresensi tm crlh dapat dilakukan dengan menggunakan aplikasi presensi yang disediakan oleh perusahaan. Aplikasi ini biasanya memungkinkan Anda untuk memasukkan informasi tentang jam masuk dan jam pulang, serta mencatat informasi lain seperti alasan keterlambatan atau alasan absen. Anda juga dapat menggunakan aplikasi presensi untuk mengirimkan laporan presensi kepada atasan Anda.	
-i put presensi tm qkxj|\n\nPresensi TM QKXJ dapat dikirimkan melalui aplikasi presensi yang telah disediakan oleh perusahaan. Anda juga dapat mengirimkan presensi melalui email atau melalui portal web yang disediakan oleh perusahaan.	
-i put presensi tm vvmc|\n\nUntuk mengisi presensi di VVMC, Anda harus mengakses portal presensi yang tersedia di situs web VVMC. Setelah masuk ke portal, Anda akan diminta untuk memasukkan informasi login Anda. Setelah masuk, Anda akan dapat mengisi presensi Anda dengan mengikuti instruksi yang diberikan.	
-i put presensi tm wosd|\n\nPresensi tm wosd dapat dilakukan dengan menggunakan aplikasi presensi yang disediakan oleh perusahaan. Aplikasi ini dapat membantu Anda untuk mencatat dan mengatur presensi karyawan. Anda juga dapat mengatur jadwal presensi dan mengirimkan pemberitahuan kepada karyawan tentang presensi mereka. Aplikasi ini juga dapat membantu Anda untuk mengatur laporan presensi dan menganalisis data presensi.	
-Bagaimana cara membuat permintaan HTTP menggunakan metode ""GET""?"|"Untuk menggunakan metode ""GET"" dalam HTTP, Anda cukup menambahkan parameter query string ke URL yang dituju."
-Apa itu type data nil pada go-lang?|Sebuah tipe data yang berisi nilai kosong
-mau running i di pcku|\n\nMau running i di pcku?\n\nYa, tentu saja. Jika Anda ingin berlari di pcku, Anda harus memastikan bahwa Anda mematuhi semua aturan yang berlaku di lokasi tersebut. Pastikan Anda membawa perlengkapan yang diperlukan, seperti sepatu lari, pakaian yang nyaman, dan air minum. Jika Anda memiliki pertanyaan lebih lanjut tentang cara berlari di pcku, Anda dapat menghubungi pihak yang bertanggung jawab untuk lokasi tersebut.	
-apa itu card img cap di bootstrap|Card Img Cap adalah kelas yang digunakan untuk menempatkan gambar di bagian atas Card dengan efek yang menyatu dengan elemen Card.
-Bagaimana cara mengakses log aplikasi di Vercel?|Anda dapat mengakses log aplikasi di Vercel melalui dasbor atau melalui perintah CLI. Anda dapat melihat log build, log runtime, dan log lainnya untuk memantau kinerja dan menangani masalah.
-oke inya sudah aktif|\n\nYa, sudah aktif. Terima kasih telah bertanya.
-Apakah ada teknik normalisasi data yang lebih disarankan daripada yang lain?|Pilihan teknik normalisasi tergantung pada karakteristik data dan jenis analisis yang akan dilakukan. Beberapa teknik yang umum digunakan termasuk Min-Max Scaling, Z-score Scaling, dan Robust Scaling.
+Apa itu Text widget di Flutter?|Widget yang digunakan untuk menampilkan teks dengan berbagai gaya dan format.
+Apa itu Row widget di Flutter?|Widget yang menyusun anak-anaknya secara horizontal dalam satu baris.
+Apa itu Column widget di Flutter?|Widget yang menyusun anak-anaknya secara vertikal dalam satu kolom.
+Apa itu ListView di Flutter?|Widget yang menampilkan daftar scrollable dari widget anak yang diatur secara vertikal.
+Apa itu GridView di Flutter?|Widget yang menampilkan daftar scrollable dari widget anak yang diatur dalam grid atau tabel.
+Apa itu Expanded widget di Flutter?|Widget yang mengisi ruang yang tersedia di dalam Row, Column, atau Flex dengan proporsi yang ditentukan.
+Apa itu Flex widget di Flutter?|Widget yang menyusun anak-anaknya secara fleksibel, memungkinkan penataan dengan rasio proporsional.
+Apa itu FittedBox di Flutter?|Widget yang menyesuaikan ukuran dan posisi anak widget sesuai dengan ukuran dan proporsinya.
+Apa itu AspectRatio widget di Flutter?|Widget yang mengatur rasio aspek anak widget untuk menjaga proporsi ukuran tertentu.
+Apa itu SingleChildScrollView di Flutter?|Widget yang memungkinkan satu anak widget untuk di-scroll jika ukurannya melebihi batas viewport.
+Apa itu Stack widget di Flutter?|Widget yang memungkinkan beberapa widget untuk ditumpuk satu di atas yang lain, dengan kontrol posisi yang fleksibel.
+Apa itu Positioned widget di Flutter?|Widget yang digunakan di dalam Stack untuk menempatkan anak widget pada posisi tertentu dengan mengatur offsetnya.
+Apa itu Align widget di Flutter?|Widget yang menempatkan anak widget di posisi tertentu di dalam ruang yang tersedia.
+Apa itu Wrap widget di Flutter?|Widget yang menyusun anak-anaknya dalam baris atau kolom, membungkus mereka ke baris berikutnya jika diperlukan.
+Apa itu SafeArea widget di Flutter?|Widget yang memastikan bahwa konten tidak tertutup oleh elemen antarmuka sistem, seperti notch atau status bar.
+Apa itu TextFormField di Flutter?|Widget input teks yang sering digunakan dalam formulir, dengan dukungan validasi dan pengolahan input.
+Apa itu DropdownButton di Flutter?|Widget yang menampilkan menu dropdown dengan opsi yang dapat dipilih oleh pengguna.
+Apa itu CheckBox di Flutter?|Widget yang memungkinkan pengguna untuk memilih atau tidak memilih opsi dengan centang atau tanpa centang.
+Apa itu Radio di Flutter?|Widget yang memungkinkan pengguna memilih satu opsi dari sekumpulan opsi yang saling eksklusif.
+Apa itu Switch di Flutter?|Widget yang memungkinkan pengguna untuk beralih antara dua status, seperti ON dan OFF.
 bagaimana cara membuat Card dengan efek rotate pada gambar menggunakan CSS saja di Bootstrap|Anda dapat membuat efek rotate pada gambar menggunakan CSS saja dengan menambahkan kelas animasi atau menambahkan keyframe CSS untuk efek rotate.
 Bagaimana cara menambahkan item ke menu?|\n\nUntuk menambahkan item ke menu, kamu dapat menggunakan parameter _item_id.	
 Bagaimana cara mengakses argumen ketiga dari baris perintah dalam program C?|\n\nUntuk mengakses argumen ketiga dari baris perintah dalam program C, kamu dapat menggunakan argv.	
