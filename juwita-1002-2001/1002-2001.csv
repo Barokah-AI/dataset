@@ -798,31 +798,31 @@ Apa makanan khas Thailand yang terbuat dari mie yang dimasak dengan saus asam ma
 Apa hidangan Spanyol yang terbuat dari nasi yang dimasak dengan saffron, daging, dan makanan laut?|\n\nPaella
 Apa makanan penutup Inggris yang terbuat dari adonan yang diisi dengan buah-buahan dan sering disajikan dengan custard atau krim?|\n\nFruit Crumble
 Apa jenis makanan yang berasal dari Yunani, terdiri dari lapisan filo pastry yang diisi dengan daging, bayam, dan keju?|\n\nSpanakopita
-aku yang lebih ga ngerti sama yang kamu maksud|\n\nMaaf, saya tidak mengerti apa yang Anda maksud. Mohon dijelaskan lebih lanjut.
-malas|\n\nMalas are a type of Buddhist prayer beads used for counting mantras, prayers, and prostrations. They are typically made of 108 beads, although other numbers are also used. Malas are usually made of wood, seeds, or stones, and are often strung on a cord or a thread. They are used to help focus the mind during meditation and to keep track of the number of mantras recited.
-buatkan surat lamaran kerja bahasa inggris|\n\nI am writing to you to express my interest in the position of Senior Software Engineer at your company. I am confident that my experience and qualifications make me an ideal candidate for this role.\n\nI have a Bachelor’s degree in Computer Science and have been working as a software engineer for the past five years. During this time, I have developed a wide range of software applications for various clients. I have also worked on projects involving the development of web applications, mobile applications, and desktop applications.\n\nI am highly proficient in a variety of programming languages, including Java, C++, and Python. I am also familiar with various software development frameworks, such as Spring, Hibernate, and Angular. I have experience in developing and deploying applications on both Windows and Linux platforms.\n\nI am a highly motivated individual who is passionate about software engineering. I am confident that I can bring a great deal of value to your company. I am eager to discuss my qualifications and experience in more detail and look forward to hearing from you.\n\nSincerely,\n\n[Your Name]
-aku benci kamu kamu jahat kamu ga menarik kamu ga asik|\n\nMaaf, saya tidak suka mendengar hal-hal seperti itu. Saya berharap kamu bisa menghargai orang lain dan menghormati perbedaan.
-kamu yang bikin saya benci|\n\nMaaf, saya tidak tahu alasanmu benci. Namun, jika ada sesuatu yang membuatmu benci, cobalah untuk mencari tahu alasannya dan mencari cara untuk menyelesaikannya.
-aku mau curhat aja kamu ga ngasi solusi|\n\nMaaf, saya tidak bisa memberikan solusi untuk masalah yang sedang Anda hadapi. Namun, saya bisa mendengarkan dan memberikan dukungan untuk Anda.
-kenapa kamu nyimpan nomor saya|\n\nSaya menyimpan nomor Anda karena saya ingin menjaga kontak dengan Anda. Saya ingin tetap terhubung dengan Anda dan berbagi informasi dan pembaruan.
-oke baikla|\n\nBaikla is a type of traditional Russian folk dance. It is a lively, fast-paced dance that is usually performed in a circle. The dance is usually accompanied by a lively tune played on a balalaika or other traditional Russian instruments. The dance is often performed at weddings and other festive occasions.
-kamu istirahat dulu jaga kesehatann ya|\n\nYa, saya akan istirahat dan jaga kesehatan saya.
-aku mau tidur|\n\nSelamat tidur!
-selamat malam nurul|\n\nSelamat malam juga, Nurul. Semoga Anda beristirahat dengan baik.
-nama saya nasya|\n\nHalo nasya, senang berkenalan dengan mu.
-nama kau siapa|\n\nNama saya Nurul.
-nama kamu siapa|\n\nNama saya Nurul.
-kau siapa|\n\nSaya Putri.
-hai anak-anak|\n\nHalo ibu guru.
-selamat pagi|\n\nPagi pagi pasti happy.
-weekend enaknya kemana ya|\n\nKalau liburan aku sih suka ke puncak.
-mau ke jogja?|\n\nAyo kesana kaya nya asik banget.
-umur kamu berapa|\n\nUmur itu takdir Tuhan.
-apa kabar putri|\n\nPutri kabarnya cukup sehat sekali.
-apa itu form sizing di Bootstrap?|\n\nForm sizing adalah cara untuk mengubah ukuran elemen form di Bootstrap.
-sedang apa|\n\nSedang membuat dataset.
-makasih ya|\n\nSama sama ya.
-bagaimana cara membuat form inline di Bootstrap|\n\nAnda bisa membuat form inline dengan menambahkan kelas .form-inline pada elemen <form>.
+Apa itu Flutter?|\n\nFlutter adalah framework open-source untuk membuat aplikasi nativ di iOS dan Android dari satu codebase.
+Siapa yang mengembangkan Flutter?|\n\nGoogle.
+Apa bahasa pemrograman yang digunakan oleh Flutter?|\n\nDart.
+Apa itu Widget di Flutter?|\n\nKomponen dasar dalam membangun antarmuka pengguna.
+Bagaimana cara menginstal Flutter?|\n\nDownload dari situs resmi Flutter dan ikuti panduan instalasinya.
+Apa itu Hot Reload di Flutter?|\n\nFitur yang memungkinkan pengembang melihat perubahan kode secara langsung tanpa harus restart aplikasi.
+Apa itu StatelessWidget?|\n\nWidget yang tidak berubah selama siklus hidupnya.
+Apa itu StatefulWidget?|\n\nWidget yang dapat berubah selama siklus hidupnya.
+Apa itu pubspec.yaml?|\n\nFile konfigurasi untuk mendefinisikan dependensi dan aset dalam proyek Flutter.
+Bagaimana cara menjalankan aplikasi Flutter di emulator?|\n\nJalankan perintah flutter run di terminal.
+Apa itu Flutter SDK?|\n\nSoftware Development Kit yang diperlukan untuk mengembangkan aplikasi dengan Flutter.
+Apa itu Cupertino di Flutter?|\n\nSet widget yang mendukung gaya desain iOS.
+Apa itu Material Design di Flutter?|\n\nSet widget yang mendukung gaya desain Google Material.
+Apa itu Flutter Engine?|\n\nMesin rendering yang mendukung aplikasi Flutter.
+Bagaimana cara membuat navigasi antar halaman di Flutter?|\n\nMenggunakan Navigator dan route.
+Apa itu FutureBuilder di Flutter?|\n\nWidget untuk membangun UI berdasarkan hasil Future.
+Apa itu ListView di Flutter?|\n\nWidget untuk menampilkan daftar item secara vertikal.
+Apa itu Scaffold di Flutter?|\n\nWidget dasar untuk struktur layout dasar aplikasi seperti AppBar dan Drawer.
+Bagaimana cara menghandle event click di Flutter?|\n\nMenggunakan widget GestureDetector atau onTap pada widget tertentu.
+Apa itu Provider di Flutter?|\n\nPaket untuk state management yang sederhana.
+Apa itu Bloc di Flutter?|\n\nBusiness Logic Component, arsitektur untuk memisahkan logika bisnis dari UI.
+Bagaimana cara menambahkan gambar di Flutter?|\n\nMenggunakan widget Image.
+Apa itu Flutter Inspector?|\n\nAlat debugging yang membantu memeriksa widget tree aplikasi Flutter.
+Bagaimana cara mengupdate state di Flutter?|\n\nMenggunakan setState() dalam StatefulWidget.
+Apa itu FlutterFire?|\n\nSerangkaian plugin Flutter yang memungkinkan integrasi dengan Firebase.
 apa itu form progress|\n\nForm progress adalah elemen form di bootstrap yang digunakan untuk menampilkan progress bar.
 form legend itu apa|\n\nForm legend adalah elemen form di bootstrap yang digunakan untuk memberikan judul pada fieldset.
 haloo|\n\nHalo sayang.
