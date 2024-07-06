@@ -1,3 +1,4 @@
+question|answer
 cuaca hari ini bagaimana|Cuaca hari ini cerah dengan sedikit awan.
 apa kegiatan kamu hari ini|Hari ini, saya akan bekerja dan kemudian pergi berolahraga.
 Apa itu AngularJS?|AngularJS adalah framework JavaScript yang dikembangkan oleh Google untuk membangun aplikasi web dinamis.
@@ -38,36 +39,36 @@ Apakah kamu menonton berita pagi ini?|Ya, saya menonton berita di TV pagi ini.
 Apakah kamu menyapa tetangga pagi ini?|Ya, saya menyapa tetangga saat keluar rumah.
 Apakah kamu memeriksa email pagi ini?|Ya, saya memeriksa email kerja pagi ini.
 Apakah kamu menjemur pakaian pagi ini?|Ya, saya menjemur pakaian setelah mencuci.
-Apa itu spreadsheet?,Spreadsheet adalah program komputer yang digunakan untuk mengorganisir, menganalisis, dan menyimpan data dalam bentuk tabel.
-Bagaimana cara membuat tabel di spreadsheet?,Untuk membuat tabel di spreadsheet, kamu bisa menggunakan fitur 'Insert' dan pilih 'Table' atau menggunakan shortcut Ctrl+T.
-Apa fungsi dari formula SUM di spreadsheet?,Formula SUM digunakan untuk menjumlahkan sejumlah angka di dalam rentang sel.
-Bagaimana cara menghapus kolom di spreadsheet?,Untuk menghapus kolom di spreadsheet, klik kanan pada judul kolom dan pilih 'Delete'.
-Apa itu sel di spreadsheet?,Sel adalah unit terkecil dalam spreadsheet yang bisa berisi data, teks, atau formula.
-Bagaimana cara menggabungkan sel di spreadsheet?,Pilih beberapa sel yang ingin digabungkan, lalu klik 'Merge Cells' di menu 'Home'.
-Apa itu formula VLOOKUP di spreadsheet?,Formula VLOOKUP digunakan untuk mencari data vertikal di kolom pertama dari rentang dan mengembalikan nilai di kolom yang sama pada baris tertentu.
-Bagaimana cara menambahkan grafik di spreadsheet?,Untuk menambahkan grafik, pilih data yang ingin dibuat grafik, lalu pilih 'Insert' dan pilih tipe grafik yang diinginkan.
-Apa fungsi dari formula IF di spreadsheet?,Formula IF digunakan untuk membuat logika kondisi, memberikan nilai tertentu jika kondisi terpenuhi dan nilai lain jika tidak terpenuhi.
-Bagaimana cara menyalin formula di spreadsheet?,Pilih sel yang berisi formula, kemudian gunakan Ctrl+C untuk menyalin dan Ctrl+V untuk menempelkan ke sel lain.
-Apa itu Pivot Table di spreadsheet?,Pivot Table adalah alat yang digunakan untuk merangkum, menganalisis, dan menampilkan data dari tabel besar dengan cara interaktif.
-Bagaimana cara memfilter data di spreadsheet?,Gunakan fitur 'Filter' di menu 'Data' untuk menyaring data berdasarkan kriteria tertentu.
-Apa itu formula AVERAGE di spreadsheet?,Formula AVERAGE digunakan untuk menghitung rata-rata dari sekelompok angka.
-Bagaimana cara menambahkan komentar di spreadsheet?,Klik kanan pada sel yang diinginkan dan pilih 'Insert Comment' atau 'New Comment'.
-Apa fungsi dari formula COUNT di spreadsheet?,Formula COUNT digunakan untuk menghitung jumlah sel yang berisi angka dalam rentang tertentu.
-Bagaimana cara mengubah format angka di spreadsheet?,Pilih sel atau rentang yang diinginkan, lalu klik kanan dan pilih 'Format Cells' untuk mengubah format angka.
-Apa itu conditional formatting di spreadsheet?,Conditional formatting adalah fitur yang memungkinkan kamu untuk menerapkan format khusus pada sel yang memenuhi kriteria tertentu.
-Bagaimana cara mengunci sel di spreadsheet?,Pilih sel yang ingin dikunci, lalu gunakan fitur 'Protect Sheet' di menu 'Review'.
-Apa fungsi dari formula CONCATENATE di spreadsheet?,Formula CONCATENATE digunakan untuk menggabungkan teks dari beberapa sel menjadi satu sel.
-Bagaimana cara membuat dropdown list di spreadsheet?,Gunakan fitur 'Data Validation' di menu 'Data' untuk membuat dropdown list.
-Apa itu formula HLOOKUP di spreadsheet?,Formula HLOOKUP digunakan untuk mencari data horizontal di baris pertama dari rentang dan mengembalikan nilai di kolom yang sama pada baris tertentu.
-Bagaimana cara menyembunyikan baris di spreadsheet?,Pilih baris yang ingin disembunyikan, klik kanan, dan pilih 'Hide'.
-Apa fungsi dari formula MAX di spreadsheet?,Formula MAX digunakan untuk menemukan nilai terbesar dalam rentang sel.
-Bagaimana cara menambahkan lembar kerja baru di spreadsheet?,Klik tombol '+' di sebelah tab lembar kerja atau gunakan shortcut Shift+F11.
-Apa itu formula MIN di spreadsheet?,Formula MIN digunakan untuk menemukan nilai terkecil dalam rentang sel.
-Bagaimana cara mengurutkan data di spreadsheet?,Gunakan fitur 'Sort' di menu 'Data' untuk mengurutkan data berdasarkan kolom tertentu.
-Apa itu freeze panes di spreadsheet?,Freeze panes adalah fitur yang memungkinkan kamu untuk mengunci baris atau kolom tertentu sehingga tetap terlihat saat menggulir spreadsheet.
-Bagaimana cara menggunakan formula INDEX di spreadsheet?,Formula INDEX digunakan untuk mengembalikan nilai dari sel tertentu dalam tabel atau rentang.
-Apa fungsi dari formula MATCH di spreadsheet?,Formula MATCH digunakan untuk mencari posisi relatif dari nilai tertentu dalam rentang.
-Bagaimana cara menambah catatan kaki di spreadsheet?,Gunakan fitur 'Header & Footer' di menu 'Insert' untuk menambahkan catatan kaki.
+Apa itu spreadsheet|Spreadsheet adalah program komputer yang digunakan untuk mengorganisir, menganalisis, dan menyimpan data dalam bentuk tabel.
+Bagaimana cara membuat tabel di spreadsheet|Untuk membuat tabel di spreadsheet, kamu bisa menggunakan fitur 'Insert' dan pilih 'Table' atau menggunakan shortcut Ctrl+T.
+Apa fungsi dari formula SUM di spreadsheet|Formula SUM digunakan untuk menjumlahkan sejumlah angka di dalam rentang sel.
+Bagaimana cara menghapus kolom di spreadsheet|Untuk menghapus kolom di spreadsheet, klik kanan pada judul kolom dan pilih 'Delete'.
+Apa itu sel di spreadsheet|Sel adalah unit terkecil dalam spreadsheet yang bisa berisi data, teks, atau formula.
+Bagaimana cara menggabungkan sel di spreadsheet|Pilih beberapa sel yang ingin digabungkan, lalu klik 'Merge Cells' di menu 'Home'.
+Apa itu formula VLOOKUP di spreadsheet|Formula VLOOKUP digunakan untuk mencari data vertikal di kolom pertama dari rentang dan mengembalikan nilai di kolom yang sama pada baris tertentu.
+Bagaimana cara menambahkan grafik di spreadsheet|Untuk menambahkan grafik, pilih data yang ingin dibuat grafik, lalu pilih 'Insert' dan pilih tipe grafik yang diinginkan.
+Apa fungsi dari formula IF di spreadsheet|Formula IF digunakan untuk membuat logika kondisi, memberikan nilai tertentu jika kondisi terpenuhi dan nilai lain jika tidak terpenuhi.
+Bagaimana cara menyalin formula di spreadsheet|Pilih sel yang berisi formula, kemudian gunakan Ctrl+C untuk menyalin dan Ctrl+V untuk menempelkan ke sel lain.
+Apa itu Pivot Table di spreadsheet|Pivot Table adalah alat yang digunakan untuk merangkum, menganalisis, dan menampilkan data dari tabel besar dengan cara interaktif.
+Bagaimana cara memfilter data di spreadsheet|Gunakan fitur 'Filter' di menu 'Data' untuk menyaring data berdasarkan kriteria tertentu.
+Apa itu formula AVERAGE di spreadsheet|Formula AVERAGE digunakan untuk menghitung rata-rata dari sekelompok angka.
+Bagaimana cara menambahkan komentar di spreadsheet|Klik kanan pada sel yang diinginkan dan pilih 'Insert Comment' atau 'New Comment'.
+Apa fungsi dari formula COUNT di spreadsheet|Formula COUNT digunakan untuk menghitung jumlah sel yang berisi angka dalam rentang tertentu.
+Bagaimana cara mengubah format angka di spreadsheet|Pilih sel atau rentang yang diinginkan, lalu klik kanan dan pilih 'Format Cells' untuk mengubah format angka.
+Apa itu conditional formatting di spreadsheet|Conditional formatting adalah fitur yang memungkinkan kamu untuk menerapkan format khusus pada sel yang memenuhi kriteria tertentu.
+Bagaimana cara mengunci sel di spreadsheet|Pilih sel yang ingin dikunci, lalu gunakan fitur 'Protect Sheet' di menu 'Review'.
+Apa fungsi dari formula CONCATENATE di spreadsheet|Formula CONCATENATE digunakan untuk menggabungkan teks dari beberapa sel menjadi satu sel.
+Bagaimana cara membuat dropdown list di spreadsheet|Gunakan fitur 'Data Validation' di menu 'Data' untuk membuat dropdown list.
+Apa itu formula HLOOKUP di spreadsheet|Formula HLOOKUP digunakan untuk mencari data horizontal di baris pertama dari rentang dan mengembalikan nilai di kolom yang sama pada baris tertentu.
+Bagaimana cara menyembunyikan baris di spreadsheet|Pilih baris yang ingin disembunyikan, klik kanan, dan pilih 'Hide'.
+Apa fungsi dari formula MAX di spreadsheet|Formula MAX digunakan untuk menemukan nilai terbesar dalam rentang sel.
+Bagaimana cara menambahkan lembar kerja baru di spreadsheet|Klik tombol '+' di sebelah tab lembar kerja atau gunakan shortcut Shift+F11.
+Apa itu formula MIN di spreadsheet|Formula MIN digunakan untuk menemukan nilai terkecil dalam rentang sel.
+Bagaimana cara mengurutkan data di spreadsheet|Gunakan fitur 'Sort' di menu 'Data' untuk mengurutkan data berdasarkan kolom tertentu.
+Apa itu freeze panes di spreadsheet|Freeze panes adalah fitur yang memungkinkan kamu untuk mengunci baris atau kolom tertentu sehingga tetap terlihat saat menggulir spreadsheet.
+Bagaimana cara menggunakan formula INDEX di spreadsheet|Formula INDEX digunakan untuk mengembalikan nilai dari sel tertentu dalam tabel atau rentang.
+Apa fungsi dari formula MATCH di spreadsheet|Formula MATCH digunakan untuk mencari posisi relatif dari nilai tertentu dalam rentang.
+Bagaimana cara menambah catatan kaki di spreadsheet|Gunakan fitur 'Header & Footer' di menu 'Insert' untuk menambahkan catatan kaki.
 Bagaimana cara mulai menabung?|Mulailah dengan menetapkan tujuan tabungan yang jelas dan buat anggaran bulanan.
 Apa tips agar konsisten menabung?|Otomatisasikan tabungan Anda dengan memindahkan sebagian gaji ke rekening tabungan setiap bulan.
 Bagaimana cara menghemat uang saat berbelanja?|Buat daftar belanja sebelum pergi ke toko dan patuhi daftar tersebut.
