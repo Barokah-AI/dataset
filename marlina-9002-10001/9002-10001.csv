@@ -983,14 +983,13 @@ Apa itu tokoh utama?|Karakter sentral dalam sebuah buku yang menjadi fokus utama
 Apa itu alur cerita?|Urutan kronologis atau logis dari peristiwa dalam sebuah buku yang membentuk narasi.
 Apa itu latar?|Waktu dan tempat di mana cerita dalam sebuah buku berlangsung, yang menciptakan suasana dan konteks untuk peristiwa yang terjadi.
 Apa itu narator?|Orang atau suara yang menceritakan cerita dalam sebuah buku, bisa merupakan karakter dalam cerita atau pengamat luar.
-input presensi wulan dwi agustien|\n\nPresensi Wulan Dwi Agustien\n\nSenin: Hadir\nSelasa: Hadir\nRabu: Hadir\nKamis: Hadir\nJumat: Hadir\nSabtu: Tidak Hadir\nMinggu: Tidak Hadir	
-input presensi marshall guspita|\n\nPresensi Marshall Guspita dapat dicatat dengan menggunakan aplikasi presensi yang tersedia. Aplikasi ini dapat membantu Anda untuk mencatat waktu masuk dan keluar, jenis kehadiran, dan alasan absen. Anda juga dapat menggunakan aplikasi ini untuk mencatat informasi lain seperti alasan keterlambatan, alasan tidak hadir, dan lain-lain.	
-input absensi farik ilham mubarik|\n\nFarik Ilham Mubarik hadir pada hari ini.	
-input absensi rizky rahmanda putra|\n\nRizky Rahmanda Putra : Hadir	
-input absensi wulan dwi agustien|\n\nSelamat datang Wulan Dwi Agustien!\n\nTerima kasih telah melakukan absensi.	
-input presensi marshall guspita|\n\nPresensi Marshall Guspita dapat dicatat dengan menggunakan aplikasi presensi yang tersedia. Aplikasi ini dapat membantu Anda untuk mencatat waktu masuk dan keluar, jenis kehadiran, dan alasan absen. Anda juga dapat menggunakan aplikasi ini untuk mencatat informasi lain seperti alasan keterlambatan, alasan tidak hadir, dan lain-lain.	
-input absensi marshall guspita|\n\nAbsensi untuk Marshall Guspita dapat dicatat dengan menggunakan aplikasi absensi yang tersedia di kantor atau dengan menggunakan sistem absensi online. Sistem absensi online dapat membantu Anda untuk mencatat waktu masuk dan keluar, jenis absensi, dan alasan absensi. Anda juga dapat menggunakan sistem absensi online untuk mencatat informasi lain seperti jam kerja, jam istirahat, dan lain-lain.	
-input absensi farisha rayafitra pohan|\n\nFarisha Rayafitra Pohan hadir pada hari ini.	
+Apa itu bab?|Bagian dari buku yang membagi cerita menjadi segmen-segmen yang lebih kecil dan lebih mudah dikelola.
+Apa itu prolog?|Bagian pendahuluan dalam sebuah buku yang memberikan latar belakang atau konteks sebelum cerita utama dimulai.
+Apa itu epilog?|Bagian penutup dari sebuah buku yang memberikan penyelesaian atau penjelasan tambahan setelah cerita utama berakhir.
+Apa itu tema?|Ide, pesan, atau konsep utama yang diungkapkan dalam sebuah buku, sering kali mencerminkan pandangan atau pemikiran penulis tentang kehidupan atau masyarakat.	
+Apa itu sinopsis?|Ringkasan singkat dari isi buku yang memberikan gambaran umum tentang cerita, tokoh, dan konflik utama.
+Apa itu ISBN?|International Standard Book Number, kode numerik unik yang diberikan pada setiap edisi dan variasi buku yang diterbitkan.
+Apa itu blurb?|Pernyataan singkat yang biasanya ditemukan di sampul belakang buku, memberikan ringkasan menarik atau pujian untuk buku tersebut.
 input absensi 754220040|\n\nMaaf, pertanyaan ini tidak dapat dijawab dengan pasti karena tergantung pada konteksnya. Jika Anda bertanya tentang absensi siswa, maka jawabannya adalah tergantung pada sekolah atau lembaga yang bersangkutan.	
 input presensi belva syamtalira aron wijayanto|\n\nBelva Syamtalira: Hadir\nAron Wijayanto: Hadir
 input presensi muhammad qeys kautsar|\n\nPresensi Muhammad Qeys Kautsar:\n\nSenin: Hadir\nSelasa: Hadir\nRabu: Hadir\nKamis: Hadir\nJumat: Hadir\nSabtu: Tidak Hadir\nMinggu: Tidak Hadir
